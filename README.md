@@ -22,7 +22,7 @@ See also: http://manpages.ubuntu.com/manpages/xenial/en/man1/fbi.1.html
 
 fbi calls the script to show the slideshow  
 -noverbose hides the status line  
--a zooms pictures to screen size (take care to provide pictures that are large enough)
--u shows pictures in random order
--t sets the time for each picture to be shown (in sec)
-/yourpicturefolder/* shows all pictures in the specified folder
+-a zooms pictures to screen size (take care to provide pictures that are large enough)  
+-u shows pictures in random order  
+-t sets the time for each picture to be shown (in sec)  
+/yourpicturefolder/* shows all pictures in the specified folder  
