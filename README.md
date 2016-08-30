@@ -16,6 +16,8 @@ flickr_download calls the script
 -d <set id> defines the album (or set) of Flickr Stream you want to download  
 -t calls for authentication  
 
+Adjust values for -k, -s and -d!
+
 ## slideshow.sh
 
 Follow this tutorial to install all components needed on your Pi tu run framebuffer imageviewer (fbi):
