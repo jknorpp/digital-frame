@@ -18,6 +18,12 @@ flickr_download calls the script
 
 Adjust values for -k, -s and -d!
 
+## flickrd
+
+Automatically runs slideshow on boot.
+
+Needs to be placed to /etc/init.d/flickrd
+
 ## slideshow.sh
 
 Follow this tutorial to install all components needed on your Pi tu run framebuffer imageviewer (fbi):
