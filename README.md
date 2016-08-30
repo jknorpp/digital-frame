@@ -3,6 +3,8 @@ Additional software for a digital media frame using a raspberry pi 3.
 
 This software package combines bits of code found on the web.
 
+You need to follow the instrucrions below to set up your raspberry pi 3 to beeing able to work as meant to.
+
 
 ## flickr_download.sh
 
